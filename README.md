@@ -1,6 +1,6 @@
 Simple node server and redis server.
 Node server show counter.
-Counter value is saved inside redis base.
+Counter value is saved inside redis data base.
 
 To deply docker images run: 
 sudo docker-compose up
